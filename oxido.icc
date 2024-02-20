@@ -1,0 +1,23 @@
+//comentarios
+//Comentarios
+//+879/
+
+# $ ¿ ? ¡ ° ¬
+===5==4<><===>=
+
+hola oxido
+este no es un comentario
+8+9*9.3-9.3%
+Verdadero
+Falso
+//comentarios
+/
+||&&!
+||=&&=!=!
+<8>6<=8>=6
+a==b!=
+
+"# $ ¿ ? ¡ ° ¬"
+fn principal{
+    imprimeln!("Hola Mundo!#$?¡¿°¬");:,{[]}
+}
